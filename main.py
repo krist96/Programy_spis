@@ -13,3 +13,6 @@ if 2 < 5:
 
 print("test")
 
+print("test11")
+print("test22")
+print("test33")
